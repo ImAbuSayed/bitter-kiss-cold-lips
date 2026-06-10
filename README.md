@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bitter-kiss-cold-lips/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bitter Kiss Cold Lips](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-kiss-cold-lips/) |
+| **Get License** | [Obtain a Music License for Bitter Kiss Cold Lips](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-kiss-cold-lips/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `67ef32acaea5e949d5c31868f7434b0e0c0c4b86ecfacf921a038c315b4497d6` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
