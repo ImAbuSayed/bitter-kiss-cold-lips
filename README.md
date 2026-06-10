@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bitter-kiss-cold-lips/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bitter Kiss Cold Lips](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-kiss-cold-lips/) |
+| **Get License** | [Music Rights & Licensing for Bitter Kiss Cold Lips](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-kiss-cold-lips/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still taste the shadow of your smile
+> Linger in the dark for a little while
+> We are dancing on the edge of the night
+> Bitter kiss, cold lips, but the fire is bright
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
